@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181626499391",
+    "project_id": "pushnotificationmuslimapp4",
+    "storage_bucket": "pushnotificationmuslimapp4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181626499391:android:27a546e24e358ef7cb638a",
+        "android_client_info": {
+          "package_name": "com.example.muslim_app_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvJXmpz10Ds2WiCOyz5Tf2-TEa8ThkL9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
